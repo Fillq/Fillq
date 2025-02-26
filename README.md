@@ -23,7 +23,7 @@
 - 🔧 Love working on **both frontend & backend projects**
 - 🌱 Always open to **learn something new**
 - 🎥 Also into **3D modeling, video editing, and photography**
-- 🎧 I enjou listening to music in my free time
+- 🎧 I enjoy listening to music in my free time
   
 <img alt="spotify now playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zi2ol7ni6b7i422dwcyco3cjd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true"/>
 
