@@ -21,7 +21,7 @@
 
 - 🎨 Passionate about **UI/UX Design & Web Development**
 - 🔧 Love working on **both frontend & backend projects**
-- 🌱 Always open to **learn something new**
+- 📖 Always open to **learn something new**
 - 🎥 Also into **3D modeling, video editing, and photography**
 - 🎧 I enjoy listening to music in my free time
   
@@ -38,6 +38,10 @@
 <h4 align="center" >Programs</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=figma,github,vscode,blender,photoshop" />
+</p>
+<h4 align="center" >Frameworks</h4>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 <br />
