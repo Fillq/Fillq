@@ -33,15 +33,15 @@
 
 <h4 align="center" >Languages</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,cpp,cs,python,java,html,css,javascript,php" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,html,css,javascript,php" />
 </p>
 <h4 align="center" >Programs</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode,blender,photoshop" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,blender,photoshop" />
 </p>
 <h4 align="center" >Frameworks</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 <br />
